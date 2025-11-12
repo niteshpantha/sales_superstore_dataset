@@ -164,4 +164,5 @@ SELECT * FROM shipping_items LIMIT 5;
 
 
 
-
+-- lets drop sales_superstore table as we have made multiple normalized tables now
+DROP TABLE sales_superstore IF EXISTS;
