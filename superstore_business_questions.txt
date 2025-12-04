@@ -11,7 +11,7 @@ Intermediate Level
     4. What is the average sales per customer?
     5. Which customers placed the most orders?
 Advanced Level
-    1. Calculate the profit margin for each category in each region.
+    1. 1. Calculate the total sales per category per region.
     2. Identify repeat customers and compare their total sales to single-time customers.
     3. Calculate days between order_date and ship_date and find the fastest shipping mode.
     4. What percentage of total sales comes from each region?
